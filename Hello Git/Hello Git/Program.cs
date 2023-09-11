@@ -6,4 +6,5 @@ Console.WriteLine(a + b + c);
 
 Console.WriteLine("Hello from GitHub");
 
-Console.WriteLine("Hello from VS");
+Console.WriteLine("VS 1");
+Console.WriteLine("Hello from VS 2");
